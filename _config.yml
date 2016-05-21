@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title:       "Leonids Jekyll theme"
-description: "Clean Jekyll blog theme called Leonids."
-url:         # the base hostname & protocol for your site
+title:       "Chris Cawley"
+description: "Internet writings from Chris Cawley"
+url:         #http://chriscawley.com
 
 #
 ###################################
@@ -31,13 +31,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Your name
+  name: Chris Cawley
   avatar: avatar.jpg
-  job: "Your job"
-  bio: "Write about yourself"
-  email:
+  job: "Web Developer"
+  bio: "Joined the darkside. It was fun."
+  email: "cscawley@mac.com"
   disqus-shortname:
-  twitter:
+  twitter: cscawley
   facebook:
   google:
     plus:
