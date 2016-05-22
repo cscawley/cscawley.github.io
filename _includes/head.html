@@ -11,11 +11,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{{ post.title }}" />
   <meta property="og:description" content="{{ post.excerpt }}" />
-  <meta property="og:image" content="{% if post.image.feature contains 'http' %}
-      "{{ post.image.feature }}"
-      {% else %}
-      "{{ site.url }}/img/{{ post.image.feature }}"
-      {% endif %}" />
+  <meta property="og:image" content="{{ site.url }}/img/{{ post.image.feature }} />
   
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
