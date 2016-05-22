@@ -7,10 +7,10 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <!-- facebook open graph markup -->
-  <meta property="og:url" content="{{ post.url }}" />
+  <meta property="og:url" content="{{ page.url }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ post.title }}" />
-  <meta property="og:description" content="{{ post.excerpt }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.excerpt }}" />
   <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature }}" />
   
   <!-- CSS files -->
