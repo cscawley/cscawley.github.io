@@ -5,7 +5,7 @@ excerpt: "In the Western genre, society tends to be organized around codes of ho
 categories: [Film Studies]
 comments: true
 image:
-    feature:
+    feature: image-western.jpg
 ---
 
 ### Contextual Scrap
