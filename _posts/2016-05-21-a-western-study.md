@@ -1,22 +1,20 @@
 ---
 layout: post
 title: The Western
-excerpt: "In the Western genre, society tends to be organized around codes of honor rather than a rationalistic systems… Abstract law where people have no social order larger than their immediate peers, family or even themselves alone."
+excerpt: "In the Western genre, society tends to be organized around codes of honor rather than a rationalistic system… Abstract law where people have no social order larger than their immediate peers, family or even themselves alone."
 categories: [Film Studies]
 comments: true
 image:
-    feature:
-    credit:
-    creditlink:
+    feature: image-western.jpg
 ---
 
 ### Contextual Scrap
 
 My oldest scrap of contextual film study notes is a piece of paper that simply says 'Western Studies' followed by 4 blocks of chicken scratch. It's hard to read and filled with dependent clauses, but in those blocks of seeming nonsense are the most definitive threads of the Western genre. 
 
-I've read several books that go to great lengths explaining the importance of the Western. Not only is it important to the history of America, but it's important in it's periodic re-emergance. There's a coorelation to the tempermant of the American people.
+I've read several books that go to great lengths explaining the importance of the Western. Not only is it important to the history of America, but it's important in it's periodic re-emergance. There's the coorelation to the tempermant of the American people that's stupidly obvious. There's also lots of other intriguing ethereal dilemmas the Western presents when a culture declares manifest destiny and literally circles the globe to begin consuming itself, but consuming itself in the face of it's most primitive form. Shit like that. 
 
-But this note wasn't taken out of any book. It was taken out of a screenwriting class from one of the most talented pitchmen I've ever met. Thats what makes these lines so simple yet so true to the core of an entire genre. A talented screenwriter will take a 500 page story and demand to know what is the singular element of this story? Why is it being told? After beating the hell out his or her work they can extract single golden lines and tell you with deft ease, this is what the story is and this is why it's so god damn good. Thanks Hafed.
+But this note wasn't taken out of any book. It was taken out of a screenwriting class from one of the most talented pitchmen I've ever met. Thanks Hafed.
 
 ### 'Western Studies'
 

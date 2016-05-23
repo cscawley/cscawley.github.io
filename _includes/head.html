@@ -6,6 +6,14 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} | {{ author.job }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <!-- facebook open graph markup -->
+  <meta property="fb:app_id" content="1076910152365816" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.excerpt }}" />
+  <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature }}" />
+  
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}/css/main.css">
