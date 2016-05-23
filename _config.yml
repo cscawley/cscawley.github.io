@@ -12,7 +12,7 @@ url:         "http://chriscawley.com"
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/Chicago
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
