@@ -5,7 +5,7 @@
 #
 title:       "Chris Cawley"
 description: "Internet writings from Chris Cawley"
-url:         "http://chriscawley.com"
+url:         ""
 
 #
 ###################################
@@ -32,9 +32,9 @@ kramdown:
 #
 owner:
   name: Chris Cawley
-  avatar: avatar.jpg
-  job: "Web Developer"
-  bio: "Joined the darkside. It was fun."
+  avatar: avatar.png
+  job: "Web Developer / Filmmaker"
+  bio: "I'm a full stack web engineer. I build C# and Javascript webapps on my own CoreOS infrastructure. I come from the world of filmmaking"
   email: "cscawley@mac.com"
   disqus-shortname:
   twitter: cscawley
