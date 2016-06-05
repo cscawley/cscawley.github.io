@@ -33,7 +33,7 @@ kramdown:
 owner:
   name: Chris Cawley
   avatar: avatar.png
-  job: "Web Developer / Filmmaker"
+  job: "Web Engineer / Filmmaker"
   bio: "I'm a writer and full stack web engineer. I build C# and Javascript webapps on a CoreOS cluster."
   email: "cscawley@mac.com"
   disqus-shortname:
