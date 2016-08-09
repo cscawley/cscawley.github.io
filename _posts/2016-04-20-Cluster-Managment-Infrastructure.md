@@ -5,7 +5,7 @@ excerpt: "I needed a vacation, so I took a week off and went to Los Angeles to h
 categories: [Tech]
 comments: true
 image:
-    feature: .jpg
+    feature: image-docker.jpg
 ---
 # CoreOS-Provision
 An automatic provisioning script for creating a CoreOS cluster through CLI.
