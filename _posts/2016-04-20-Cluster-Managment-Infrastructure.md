@@ -22,3 +22,7 @@ This repository is Felix's bag of tricks, so I'll just keep throwing stuff in he
 + Create a seperate bash script for Digital Ocean's CLI
 + Create NGINX reverse-proxy HA load balancer
 + Create Docker Swarm cluster management
+
+##### Repository
+
+https://gitlab.com/ampelos/CoreOS-Provision
