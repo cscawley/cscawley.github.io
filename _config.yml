@@ -16,7 +16,7 @@ timezone:          America/Chicago
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:categories/:year-:month/:title
 
 kramdown:
   auto_ids:       true

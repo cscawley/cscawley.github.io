@@ -2,7 +2,7 @@
 layout: post
 title: The Western
 excerpt: "In the Western genre, society tends to be organized around codes of honor rather than a rationalistic system… Abstract law where people have no social order larger than their immediate peers, family or even themselves alone."
-categories: [Film Studies]
+categories: [Writing]
 comments: true
 image:
     feature: image-western.jpg

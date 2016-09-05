@@ -2,7 +2,7 @@
 layout: post
 title: Cluster Management Infrastructure Provision Script
 excerpt: "I needed a vacation, so I took a week off and went to Los Angeles to hang out with my friends. I quickly found out how hard it was to seriously take a vacation from coding. During luls and early mornings when everyone else was waking up I created this: a portable bash script that I can take to whatever Azure infrastructure my employer can afford me."
-categories: [Tech]
+categories: [Writing]
 comments: true
 image:
     feature: image-docker.jpg
