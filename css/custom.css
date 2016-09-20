@@ -1,0 +1,98 @@
+.current-position {
+
+}
+.web-dev-tulane {
+  height: 314px;
+  position: absolute;
+  background: rgba(74, 234, 160, 0.63);
+  width: 386px;
+  top: 5px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;
+}
+
+.data-ops-tulane {
+  height: 98px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 425px;
+  top: 319px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;
+}
+.ba-cinema {
+  height: 235px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 390px;
+  top: 478px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px; 
+}         
+.shelve {
+  height: 136px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 284px;
+  top: 478px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;
+}
+.as-screen {
+  height: 384px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 425px;
+  top: 771px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;
+
+}
+
+.panel-ifp {
+  height: 109px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 317px;
+  top: 810px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;;
+}
+
+.office-ifp {
+  height: 150px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 217px;
+  top: 810px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;
+}
+
+.video-clerk {
+  height: 176px;
+  position: absolute;
+  background: rgba(74, 182, 234, 0.63);
+  width: 237px;
+  top: 879px;
+  z-index: -1;
+  left: 88px;
+  border-radius: 3px;
+
+}
+
+.work-link {
+  color: #fff;
+}
+
+.school-link {
+  margin-left: 59px;
+  color: #fff;
+}

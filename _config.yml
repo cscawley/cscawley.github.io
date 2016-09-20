@@ -34,7 +34,7 @@ owner:
   name: Chris Cawley
   avatar: avatar.png
   job: "Web Engineer / Filmmaker"
-  bio: "I'm a writer and full stack web engineer. I build C# and Javascript webapps on a CoreOS cluster."
+  bio: "I'm a full stack web engineer. I build C# and Javascript webapps."
   email: "cscawley@mac.com"
   disqus-shortname:
   twitter: cscawley
@@ -47,7 +47,7 @@ owner:
     ad-slot:
   bing-verify:
   github: cscawley
-  gitlab: cscawley
+  gitlab: #cscawley
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
