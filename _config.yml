@@ -4,7 +4,7 @@
 ####################################
 #
 title:       "Chris Cawley"
-description: "Internet writings from Chris Cawley"
+description: "Resume for Chris Cawley"
 url:         "http://chriscawley.com"
 
 #
@@ -33,7 +33,7 @@ kramdown:
 owner:
   name: Chris Cawley
   avatar: avatar.png
-  job: "Web Engineer / Filmmaker"
+  job: "Web Engineer"
   bio: "I'm a full stack web engineer. I build C# and Javascript webapps."
   email: "cscawley@mac.com"
   disqus-shortname:

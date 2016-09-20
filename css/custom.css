@@ -91,8 +91,6 @@
 .work-link {
   color: #fff;
 }
-
-.school-link {
-  margin-left: 59px;
-  color: #fff;
+.work-link:hover{
+ color:  rgba(0, 30, 84, .296875);
 }
