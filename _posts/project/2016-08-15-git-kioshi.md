@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Tulane Doctors
+title: Git Kioshi
 excerpt: "I charged through The Great Raceway. I ran and speed and thundered through it, past my enemy, under the bad signs. I relinquished all thought tied down to feeling; I let it all go. I knew nothing but the race."
 categories: [Portfolio]
 comments: true
-code: .NET, JsRender
-domain: Physician Search App
+code: Gitlab, NGINX
+domain: Personal CI/CD server
 image:
     feature: ink-drawing-header.jpg
 ---

@@ -1,8 +1,6 @@
 ---
-layout: page
-permalink: /portfolio1/
+layout: default
 ---
-
 <section class="grid">
   <header class="top-bar">
     <h2 class="top-bar__headline">Project Portfolio</h2>
@@ -11,11 +9,11 @@ permalink: /portfolio1/
   <a class="grid__item" href="#">
     <h2 class="title title--preview">{{ post.title }}</h2>
     <div class="loader"></div>
-
+    <span class="category">{{ post.domain }}</span>
     <div class="meta meta--preview">
       <img class="meta__avatar" src="img/authors/1.png" alt="author01" /> 
       <span class="meta__date"><i class="fa fa-calendar-o"></i>{{ post.date | date: "%-d %b %Y" | upcase }}</span>
-      <span class="meta__reading-time"><i class="fa fa-clock-o"></i></span>
+      <span class="meta__reading-time"><i class="fa fa-code"></i>{{ post.code }}</span>
     </div>
   </a>
 {% endfor %}
