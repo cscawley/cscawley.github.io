@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Gibson Portal
-excerpt: "I charged through The Great Raceway. I ran and speed and thundered through it, past my enemy, under the bad signs. I relinquished all thought tied down to feeling; I let it all go. I knew nothing but the race."
+excerpt: Student, Faculty and Staff Portal
 categories: [Portfolio]
 comments: true
 code: Java, Liferay

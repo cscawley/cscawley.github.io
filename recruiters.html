@@ -1,35 +1,16 @@
 ---
-layout: page
+layout: default
 title:  Recruiters
 permalink: /recruiters/
 ---
 
-<div class="archive">
-  <div class="timeline" id="timeline">
-    {% for post in site.cetegories['webapps']%}
-    {% unless post.next %}
-    <div class="archive-title">
-      <h4 class="archive-year">{{ post.date | date: '%Y' }}</h4>
-    </div>
-
-    <ul>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-    {% if year != nyear %}
-    </ul>
-    <div class="archive-title">
-      <h4 class="archive-year">{{ post.date | date: '%Y' }}</h4>
-    </div>
-
-    <ul>
-    {% endif %}
-    {% endunless %}
-    <li>
-      <div style="width:60px;float:left;">{{ post.date | date: "%b %-d" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-
-  </div>
-
+<div class="back-home">
+  <a href="{{ site.url }}/">< back Home.</a>
 </div>
+{% for post in site.categories.recruiters %}
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+{% endfor %}

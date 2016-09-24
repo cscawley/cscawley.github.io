@@ -1,25 +1,4 @@
 ---
-layout: page
-permalink: /portfolio1/
+layout: home
+permalink: /portfolio/
 ---
-
-<section class="grid">
-  <header class="top-bar">
-    <h2 class="top-bar__headline">Project Portfolio</h2>
-  </header>
-{% for post in site.categories.Portfolio %}
-  <a class="grid__item" href="#">
-    <h2 class="title title--preview">{{ post.title }}</h2>
-    <div class="loader"></div>
-
-    <div class="meta meta--preview">
-      <img class="meta__avatar" src="img/authors/1.png" alt="author01" /> 
-      <span class="meta__date"><i class="fa fa-calendar-o"></i>{{ post.date | date: "%-d %b %Y" | upcase }}</span>
-      <span class="meta__reading-time"><i class="fa fa-clock-o"></i></span>
-    </div>
-  </a>
-{% endfor %}
-  <footer class="page-meta">
-    <span></span>
-  </footer>
-</section>
