@@ -5,8 +5,9 @@ excerpt: Personal CI/CD server
 categories: [Portfolio]
 comments: true
 code: Gitlab, NGINX
+completion: Aug. 2016
 image:
-    feature: ink-drawing-header.jpg
+    feature: gitlab.jpg
 ---
 
 I charged through The Great Raceway. I ran and speed and thundered through it, past my enemy, under the bad signs. I relinquished all thought tied down to feeling; I let it all go. I knew nothing but the race. No sight could see what I saw. No bullet small enough to find me. All that was, were hands on a wheel. A seal wanted my head, but I was even faster than God’s touch. No holy fallen being could stand in my way, all because I was on The Great Raceway.

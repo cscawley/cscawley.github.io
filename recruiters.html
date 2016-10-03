@@ -3,14 +3,19 @@ layout: default
 title:  Recruiters
 permalink: /recruiters/
 ---
+<div class="default-area">
+  <div class="recruit-header">
+  </div>
+  <div class="back-home">
+    <a href="{{ site.url }}/">< back Home.</a>
+  </div>
+  {% for post in site.categories.recruiters %}
 
-<div class="back-home">
-  <a href="{{ site.url }}/">< back Home.</a>
+    <article class="post-content">
+    
+      {{ post.content }}
+
+    </article>
+
+  {% endfor %}
 </div>
-{% for post in site.categories.recruiters %}
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-{% endfor %}

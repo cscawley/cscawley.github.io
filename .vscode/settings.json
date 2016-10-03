@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Controls if lines should wrap. The lines will wrap at min(editor.wrappingColumn, viewportWidthInColumns).
+  "editor.wordWrap": true,
+}

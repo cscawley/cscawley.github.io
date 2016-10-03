@@ -5,8 +5,9 @@ excerpt: Student, Faculty and Staff Portal
 categories: [Portfolio]
 comments: true
 code: Java, Liferay
+completion: June 2014
 image:
-    feature: ink-drawing-header.jpg
+    feature: java.jpg
 ---
 
 I charged through The Great Raceway. I ran and speed and thundered through it, past my enemy, under the bad signs. I relinquished all thought tied down to feeling; I let it all go. I knew nothing but the race. No sight could see what I saw. No bullet small enough to find me. All that was, were hands on a wheel. A seal wanted my head, but I was even faster than God’s touch. No holy fallen being could stand in my way, all because I was on The Great Raceway.
