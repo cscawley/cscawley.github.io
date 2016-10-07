@@ -6,7 +6,7 @@ layout: default
     <h2 class="top-bar__headline">Project Portfolio</h2>
   </header>
 {% for post in site.categories.Portfolio %}
-  <a class="grid__item" href="#">
+  <a class="grid__item" href="{{ post.href }}" target="_blank">
     <h2 class="title title--preview">{{ post.title }}</h2>
     <div class="loader"></div>
     <span class="category">{{ post.excerpt }}</span>
