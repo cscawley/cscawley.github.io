@@ -7,7 +7,7 @@ comments: true
 domain: 
 code: .NET, Angular 2
 completion: In Development
-href: https://github.com/cscawley/ConflictOfInterest
+href: https://github.com/cscawley/staff-coi
 image:
     feature: angular.jpg
 ---
