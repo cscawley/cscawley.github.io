@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Web Developer - Tulane University, Advanced Applications
-excerpt: "I charged through The Great Raceway. I ran and speed and thundered through it, past my enemy, under the bad signs. I relinquished all thought tied down to feeling; I let it all go. I knew nothing but the race."
 categories: [recruiters]
 comments: false
-image:
-    feature: ink-drawing-header.jpg
 ---
 
 ## Recruiters
