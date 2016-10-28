@@ -22,4 +22,10 @@ $20,000.00 for my current salary, social security number, or copy of my drivers 
 
 I'm very happy with my position at Tulane, but I'm always interested in hearing about new companies, startups and places where the leadership team is interested in innovating development, development operations, or systems architecture.
 
-Make sure to check out my [portfolio](http://chriscawley.com/portfolio) for examples of my work.
+Check out my [portfolio](http://chriscawley.com/portfolio) for examples of my work.
+
+Please make payments in the form of bitcoin: 14Afng73sd1A5j6Uwf3sj1pNqYsgEUr6dr
+
+All the best,
+
+Chris
