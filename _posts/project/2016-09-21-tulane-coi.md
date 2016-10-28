@@ -5,7 +5,7 @@ excerpt: Conflict of Interest App
 categories: [Portfolio]
 comments: true
 domain: 
-code: .NET, Angular 2
+code: .NET Core, Node.js, React
 completion: In Development
 href: https://github.com/tu-ts
 image:
