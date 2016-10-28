@@ -15,7 +15,9 @@ Please use this website as a resource to understand the type of projects I've wo
 I charge:
 
 $500.00 for an updated PDF copy of my resume.
+
 $750.00 to fill out a job profile on your companies website.
+
 $20,000.00 for my current salary, social security number, or copy of my drivers license.
 
 I'm very happy with my position at Tulane, but I'm always interested in hearing about new companies, startups and places where the leadership team is interested in innovating development, development operations, or systems architecture.
