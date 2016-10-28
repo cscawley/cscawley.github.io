@@ -7,7 +7,7 @@ comments: true
 domain: 
 code: .NET, Angular 2
 completion: In Development
-href: https://github.com/cscawley/staff-coi
+href: https://github.com/tu-ts
 image:
     feature: angular.jpg
 ---
