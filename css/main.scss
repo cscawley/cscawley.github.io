@@ -4,24 +4,41 @@
 @charset "UTF-8";
 
 // Mixins
-@import "components/mixins";
+// @import "home/prefixer";
+@import "home/mixins";
+@import "home/color";
 
-// Variables
-@import "components/variables";
+// Variables;
+@import "home/variables";
 
 // Reset
-@import "components/normalize";
+@import "home/normalize";
 
-// Components
-@import "components/global";
-@import "components/helpers";
-@import "components/grid";
-@import "components/typography";
-@import "components/buttons";
-@import "components/syntax-highlighting";
-
-// Pages styling
-@import "pages/layout";
-@import "pages/tags";
-@import "pages/archive";
-@import "pages/post";
+// home
+@import "home/global";
+@import "home/icons-material-design";
+@import "home/grid";
+@import "home/navbar";
+@import "home/roboto";
+@import "home/typography";
+@import "home/cards";
+@import "home/toast";
+@import "home/tabs";
+@import "home/tooltip";
+@import "home/buttons";
+@import "home/dropdown";
+@import "home/waves";
+@import "home/modal";
+@import "home/collapsible";
+@import "home/chips";
+@import "home/materialbox";
+@import "home/forms/forms";
+@import "home/table_of_contents";
+@import "home/sideNav";
+@import "home/preloader";
+@import "home/video";
+@import "home/slider";
+@import "home/carousel";
+@import "home/date_picker/default";
+@import "home/date_picker/default.date";
+@import "home/date_picker/default.time";

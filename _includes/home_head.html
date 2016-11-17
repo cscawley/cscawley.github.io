@@ -1,0 +1,49 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} | Web Engineer{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <!-- facebook open graph markup. Register your site with https://developers.facebook.com/ to get an app_id  -->
+  <meta property="fb:app_id" content="1076910152365816" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.excerpt }}" />
+  <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature }}" />
+  
+  <!-- Twitter Summary Card with Large Image -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@cscawley" />
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+  <meta name="twitter:creator" content="{% if author.twitter %}@{{ author.twitter }}{% endif %}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.excerpt }}" />
+  <meta name="twitter:image" content="{{ site.url }}/img/{{ page.image.feature }}" />
+  
+  <!-- icons -->
+  <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- video.css -->
+  <link href="http://vjs.zencdn.net/5.8.8/video-js.css" rel="stylesheet">
+    <!-- page.css -->
+  <link type="text/css" rel="stylesheet" href="css/main.css"  media="screen,projection"/>
+  <link type="text/css" rel="stylesheet" href="css/custom.css"  media="screen,projection"/> 
+
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.url }}" />
+
+  <!-- Icons -->
+  <!-- 16x16 -->
+  <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+  <!-- 32x32 -->
+  <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
+  <!-- hola CDN 
+  <script async crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=hc_28ceab0c"></script>
+  -->
+  <!-- If you'd like to support IE8 -->
+  <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+</head>

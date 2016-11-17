@@ -1,0 +1,45 @@
+.nav-container {
+  margin: 0 2%;
+}
+.navbar-fixed {
+  height: 74px;
+}
+nav {
+  height: 74px;
+  line-height: 74px;
+}
+.home-slide {
+  padding-top: 0;
+}
+.indicators {
+  background: black;
+}
+.carousel .indicators .indicator-item {
+  background: rgba(76, 76, 76, 0.45);
+}
+.super-dark-grey {
+  background: radial-gradient(#333, hsl(200,30%,6%) );
+}
+.stuff-container {
+  margin: 0 7%;
+}
+.media-tray {
+  margin: 0 3%;
+}
+footer.page-footer {
+  background-color: #523a80 !important;
+  position: fixed;
+  bottom: 43px;
+  width: 100%;
+}
+
+.footer-copyright {
+  background-color: rgb(51, 51, 51);
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 43px;
+}
+.footer-container{
+  margin: 10px 0 0 32px;
+}
