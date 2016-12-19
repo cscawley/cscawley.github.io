@@ -15,3 +15,11 @@ $(function(){
     $(this).select();
   });
 });
+
+
+
+videojs("my_video_1").ready(function(){
+  var myPlayer = videojs('my_video_1');
+  myPlayer.play();
+  myPlayer.addChild('BigPlayButton');
+});
