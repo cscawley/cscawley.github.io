@@ -7,7 +7,7 @@ comments: true
 domain: 
 code: .NET Core, Node.js, React
 completion: In Development
-href: https://github.com/tu-ts
+href: https://development.house/web/coi
 image:
     feature: react.jpg
 ---
