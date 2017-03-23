@@ -1,6 +1,7 @@
-.current-position {
-
+body {
+  background-color: #1f1f1f;
 }
+
 .web-dev-tulane {
   height: 314px;
   position: absolute;
@@ -93,4 +94,23 @@
 }
 .work-link:hover{
  color:  rgba(0, 30, 84, .296875);
+}
+
+.video-container {
+  margin:  25vh 0;
+}
+
+.btn {
+  margin: 20px;
+  background-color: #f83e4b;
+  border-color: rgba(187, 73, 73, 0.23);
+}
+.btn:hover{
+  color: #fff;
+  background-color: #8c232a; 
+  border-color: #8c232a;
+}
+.btn:visited{
+  background-color: #8c232a; 
+  border-color: #8c232a;
 }

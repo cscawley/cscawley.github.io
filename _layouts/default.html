@@ -4,19 +4,32 @@
 {% include head.html %}
 
 <body>
-  <div class="row">
-    <div class="col s12 m3">
-      <div class="table cover">
-        {% include sidebar.html %}
-      </div>
-    </div>
-    <div class="col s12 m9">
-      <div class="post-listing">
-        {{ content }}
-        {% include footer.html %}
-      </div>
+  <div align="center" class="video-container">    
+    <video id="t-bois" width="30%">
+      <source src="/img/T-Bois.mp4" type="video/mp4">
+      Your browser does not support basic HTML fucntions. Get a gud one an come back.
+    </video>
+    <div class="row">
+      <button class="btn" onclick="playPause()">
+        <i id="fa" class="fa fa-play" aria-hidden="true"></i>
+
+      </button>
     </div>
   </div>
+  <script> 
+    var myVideo = document.getElementById("t-bois");
+    var fav = document.getElementById("fa"); 
+    function playPause() { 
+        if (myVideo.paused) {
+            fav.className = "fa fa-pause";
+            myVideo.play();
+        }
+         else  {
+            fav.className = "fa fa-play";
+            myVideo.pause(); 
+        }
+    }
+  </script>
   {% include js.html %}
 </body>
 </html>
