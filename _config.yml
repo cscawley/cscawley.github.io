@@ -63,7 +63,3 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-
-sass:
-  sass_dir: _scss
-  style: compressed
