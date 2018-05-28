@@ -24,9 +24,9 @@ layout: default
 				</header>
 				<nav class="nav">
 					<a class="demo demo--current" href="index.html">Projects</a>
-					<a class="demo" href="gallery.html">Webapp Staging</a>
-					<a class="demo" href="entry.html">Development House</a>
-					<a class="demo" href="grid.html">Forum</a>
+					<a class="demo" target="_blank" href="https://demo.webapp.st">Webapp Staging</a>
+					<a class="demo" target="_blank" href="https://development.house">Development House</a>
+					<a class="demo" >Forum</a>
 				</nav>
 			</div>
 			<div class="content">
@@ -41,10 +41,11 @@ layout: default
 					<div class="pieces" style="margin-top: 100px; background-image: url(img/carrucan.png)"></div>
 				</div>
 				<nav class="menu">
-					<a class="menu__item" href="#slide-1" data-image="img/2d.jpg">Full Stack Developer</a>
-					<a class="menu__item" href="#slide-2" data-image="img/3d.jpg">Angular <span>(latest)</span> Front End Dashboard</a>
-					<a class="menu__item" href="#slide-2" data-image="img/3d.jpg">.NET Core 2 API</a>
-					<a class="menu__item" href="#slide-3" data-image="img/4d.jpg">Development<span>.</span>House</a>
+					<a class="menu__item menu__item--current" href="#slide-1" data-image="img/carrucan.png">Full Stack Developer</a>
+					<a class="menu__item" href="#slide-2" data-image="img/3d.png">Angular <span>(latest)</span> Front End Dashboard</a>
+					<a class="menu__item" href="#slide-2" data-image="img/1d.png">.NET Core 2 API</a>
+					<a class="menu__item" href="#slide-3" data-image="img/4d.png">Development<span>.</span>House</a>
+					<a class="menu__item" href="#slide-3" data-image="img/4d.png">Twitch <span>Affiliate</span></a>
 				</nav>
 			</div>
       <div id="wave">
@@ -147,5 +148,4 @@ layout: default
 			menuItems.forEach((item,pos) => item.addEventListener('click', (ev) => openImage(ev,item,pos)));
 		}
 		</script>
-		<script src="pater/pater.js"></script>
 	</body>
